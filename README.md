@@ -2,7 +2,7 @@
 GUI Developments for the Helmholtz Cage Toolkit.
 
 ## What is this?
-For the foreseeable future, this repository will hold development files for the creation of a software GUI tool, part of space-related, engineering thesis work. This software uses Qt6 as its primary UI framework, and the author is still learning new things about it. As a result, this repository *for the time being* will contain a mixture of development files relevant to the HCT GUI, and practice/experimental files, which the author used to learn about the software used.
+For the foreseeable future, this repository will hold development files for the creation of a software GUI tool, part of a space-related MSc thesis work. This software uses Qt6 as its primary UI framework, and the author is still learning new things about it. As a result, this repository *for the time being* will contain a mixture of development files relevant to the HCT GUI, and practice/experimental files, which the author used to learn about the software used.
 
 ## Dependencies
 This software uses the following dependencies:
