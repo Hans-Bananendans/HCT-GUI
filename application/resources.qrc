@@ -1,0 +1,20 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="program_icon">./assets/icons/icon2c.png</file>
+        <file alias="gaussmeter">./assets/icons/icon_gaussmeter.svg</file>
+        <file alias="file">./assets/icons/feather/file.svg</file>
+        <file alias="folder">./assets/icons/feather/folder.svg</file>
+        <file alias="save">./assets/icons/feather/save.svg</file>
+        <file alias="camera">./assets/icons/feather/camera.svg</file>
+        <file alias="help">./assets/icons/feather/help-circle.svg</file>
+        <file alias="box">./assets/icons/feather/box.svg</file>
+        <file alias="sliders">./assets/icons/feather/sliders.svg</file>
+        <file alias="monitor">./assets/icons/feather/monitor.svg</file>
+        <file alias="zap">./assets/icons/feather/zap.svg</file>
+        <file alias="radio">./assets/icons/feather/radio.svg</file>
+        <file alias="terminal">./assets/icons/feather/terminal.svg</file>
+        <file alias="settings">./assets/icons/feather/settings.svg</file>
+    </qresource>
+</RCC>
+
