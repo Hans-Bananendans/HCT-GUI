@@ -15,7 +15,7 @@ source .venv/bin/activate
 Then clone the repository and install the requirements:
 ```bash
 git clone https://github.com/Hans-Bananendans/HCT-GUI.git
-pip install -r .\requirements.txt
+pip install -r ./requirements.txt
 ```
 
 ## Dependencies
